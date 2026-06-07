@@ -1,0 +1,15 @@
+__pycache__/
+.ipynb_checkpoints/
+
+*.pyc
+
+US_Accidents_March23.csv
+
+venv/
+.env
+
+.DS_Store
+
+Dataset/*.csv
+*pkl
+*pbix
