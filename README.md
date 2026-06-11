@@ -2,7 +2,7 @@
 
 ![PowerBI Dashboard](Images/dashboard_powerbi.png)
 
-📌 Project Overview
+# 📌 Project Overview
 
 Traffic accidents remain a major public safety concern worldwide. This project uses Data Analytics, Machine Learning, and Data Visualization techniques to analyze accident patterns, identify accident-prone locations (hotspots), and predict accident severity using historical traffic accident data.
 
@@ -10,7 +10,7 @@ The project follows a complete end-to-end analytics workflow, starting from data
 
 ⸻
 
-🎯 Project Objectives
+# 🎯 Project Objectives
 	•	Analyze large-scale traffic accident data.
 	•	Identify accident hotspots and high-risk zones.
 	•	Understand factors influencing accident severity.
@@ -20,7 +20,7 @@ The project follows a complete end-to-end analytics workflow, starting from data
 
 ⸻
 
-🛠️ Technologies Used
+# 🛠️ Technologies Used
 
 Programming & Data Analysis
 	•	Python
@@ -42,16 +42,18 @@ Version Control
 	•	Git
 	•	GitHub
 
-Smart-Traffic-Accident-Hotspot-Prediction-System
+Smart-Traffic-Accident-Hotspot-Prediction-System 
 │
 ├── Dataset
 │   └── dataset_info.md
+
 │
 ├── Images
 │   ├── dashboard_powerbi.png
 │   ├── hotspot_heatmap.html
 │   ├── high_risk_hotspot_heatmap.html
-│   └── additional visualizations
+│   └── additional visualizations 
+
 │
 ├── Python
 │   ├── Phase1_Data_Understanding.ipynb
@@ -60,6 +62,7 @@ Smart-Traffic-Accident-Hotspot-Prediction-System
 │   ├── Phase4_Machine_Learning.ipynb
 │   ├── Phase5_XGBOOST_Model.ipynb
 │   └── Phase6_Hotspot_Detection.ipynb
+
 │
 ├── Reports
 │   ├── Phase1_Insights.md
@@ -69,11 +72,13 @@ Smart-Traffic-Accident-Hotspot-Prediction-System
 │   ├── Phase5_XGBoost_Results.md
 │   ├── Phase6_Hotspot_Analysis.md
 │   └── Phase7_PowerBI_Dashboard_Report.md
+
 │
 ├── README.md
 └── requirements.txt
 
-🔄 Project Workflow
+
+# 🔄 Project Workflow
 
 Phase 1: Data Understanding
 	•	Explored accident dataset structure.
@@ -124,7 +129,7 @@ Built an interactive dashboard to visualize:
 
 ⸻
 
-📈 Key Results
+# 📈 Key Results
 
 Machine Learning Performance
 	•	Developed and evaluated Random Forest and XGBoost models.
@@ -142,7 +147,7 @@ Hotspot Detection
 
 ⸻
 
-📊 Visualizations Included
+# 📊 Visualizations Included
 
 Exploratory Data Analysis
 	•	State Analysis
@@ -165,7 +170,7 @@ Dashboard
 
 ⸻
 
-📚 Dataset Information
+# 📚 Dataset Information
 
 Dataset: US Accidents (2016–2023)
 
@@ -177,7 +182,7 @@ https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
 
 ⸻
 
-🚀 Future Enhancements
+# 🚀 Future Enhancements
 	•	Real-time accident severity prediction.
 	•	Deployment using Flask/FastAPI.
 	•	Live traffic data integration.
@@ -187,7 +192,7 @@ https://www.kaggle.com/datasets/sobhanmoosavi/us-accidents
 
 ⸻
 
-👨‍💻 Author
+# 👨‍💻 Author
 
 Dheeraj Reddy
 
@@ -205,7 +210,7 @@ Skills Demonstrated
 
 ⸻
 
-⭐ Project Highlights
+# ⭐ Project Highlights
 
 ✅ End-to-End Data Analytics Project
 
