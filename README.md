@@ -1,4 +1,4 @@
-🚦 Smart Traffic Accident Hotspot Prediction & Severity Analysis System
+# **🚦 Smart Traffic Accident Hotspot Prediction & Severity Analysis System**
 
 ![PowerBI Dashboard](Images/dashboard_powerbi.png)
 
